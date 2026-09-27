@@ -1,0 +1,6 @@
+{
+  "name": "VOLT Domestique | Ingénierie Tunis",
+  "description": "Groupes électrogènes diesel insonorisés, inverseurs automatiques ATS et secours énergétique haute précision pour villas et résidences à Tunis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
